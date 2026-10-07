@@ -1,2 +1,5 @@
 123
 dsadsadsa
+
+
+git remote add origin https://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github.com/beratdemircan/git_dersi
